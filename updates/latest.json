@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T13:02:49.6138480Z",
+  "publishedAt": "2026-11-13T14:00:56.2730070Z",
   "bundle": {
-    "version": "2026.11.06-222215",
+    "version": "2026.11.13-051758",
     "schemaVersion": 1,
-    "minAppVersion": "1.0.0.1017",
-    "zipUrl": "bundles/interop-data-2026.11.06-222215.zip",
-    "sha256": "9b00ee2f66e9a73ea263337fe9a96ca7455595786d23f41eb859e985e627d0d8",
-    "sizeBytes": 233359
+    "minAppVersion": "1.0.0.1018",
+    "zipUrl": "bundles/interop-data-2026.11.13-051758.zip",
+    "sha256": "f562e7e7ccdfc3c2c3a1adb361bdb47ce43172706927e8827856a00b6d06f955",
+    "sizeBytes": 233297
   },
   "revoked": []
 }
